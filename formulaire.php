@@ -7,7 +7,7 @@
 <?php include "navbar.php"  ?>
 
 <p>
-    
+   
     Veuillez taper votre prénom :
 </p>
 

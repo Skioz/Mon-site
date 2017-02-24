@@ -1,4 +1,5 @@
 
+
    <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -15,18 +16,17 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Accueil<span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Gestion de Compte</a></li>
+        <li class="active"><a href="#">S'inscrire<span class="sr-only">(current)</span></a></li>
+        <li><a href="connect.php">Connectez-Vous</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lien <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gestion du compte <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="formulaire.php">Formulaire</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
+            <li><a href="formulaire.php">Mot de passe oublié</a></li>
+             <li role="separator" class="divider"></li>
+            <li><a href="#">Changement d'adresse-email</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
+            <li><a href="#">Changement des sports</a></li>
+            
           </ul>
         </li>
       </ul>
@@ -52,3 +52,9 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+
+<footer>
+
+  <?php include "icone.php" ?>
+
+</footer>
