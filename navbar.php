@@ -52,9 +52,3 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-
-<footer>
-
-  <?php include "icone.php" ?>
-
-</footer>
