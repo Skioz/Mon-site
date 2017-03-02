@@ -8,7 +8,7 @@
 
 <p>
    
-    Veuillez taper votre prénom :
+    Veuillez taper votre prénom:
 </p>
 
 <form action="cible.php" method="post">
