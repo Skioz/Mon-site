@@ -21,7 +21,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gestion du compte <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="formulaire.php">Mot de passe oublié</a></li>
+            <li><a href="mdpoublie.php">Mot de passe oublié</a></li>
              <li role="separator" class="divider"></li>
             <li><a href="#">Changement d'adresse-email</a></li>
             <li role="separator" class="divider"></li>

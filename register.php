@@ -13,9 +13,9 @@
 		<!-- Google Fonts -->
 		<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-<<<<<<< HEAD
+
 		
-		<link href="style.css">
+	<link rel="stylesheet" media="screen" type="text/css" href="style.css"  />
 
 
 	</head>
@@ -23,28 +23,18 @@
 	<?php include "navbar.php"  ?>
     <?php include "head.php"  ?>
 
-=======
-		<?php include "head.php" ?>
-		<link href="style.css">
 
-
-		<title>M2L</title>
 	</head>
 	<body>
->>>>>>> origin/master
 		<div class="container">
 			<div class="row main">
 				<div class="panel-heading">
 	               <div class="panel-title text-center">
-<<<<<<< HEAD
-	               		
-=======
-	               		<h1 class="title">M2L</h1>
->>>>>>> origin/master
+
 	               		<hr />
 	               	</div>
 	            </div> 
-				<div class="main-login main-center">
+				<div class="main-login main-center paddinginscri">
 					<form class="form-horizontal" method="post" action="#">
 						
 						<div class="form-group">
@@ -101,11 +91,7 @@
 							<button type="button" class="btn btn-primary btn-lg btn-block login-button">Register</button>
 						</div>
 						<div class="login-register">
-<<<<<<< HEAD
-				            
-=======
-				            <a href="index.php">Accueil</a>
->>>>>>> origin/master
+
 				         </div>
 					</form>
 				</div>
